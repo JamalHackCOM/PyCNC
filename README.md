@@ -25,4 +25,15 @@ sh start.sh
 - [ ] Multi API Handler
 - [ ] Authenticator (2FA)
 - [ ] Fading functions
+# New cnc features
+- [X] Fading functions
+- [X] Bots + Apis (With funneling too)
+- [X] Ip banning and acccount banning
+- [X] Good account system(Expiry,Plan etc.)
+- [X] Discord logs
+- [X] Anti-Brute
+- [X] Super low resource requirement(Usually 0% cpu, .40% ram)
+- [X] Licensing system
+- [X] Api funneling + Multi api support
+- +So much more
 - Please add suggestions!
